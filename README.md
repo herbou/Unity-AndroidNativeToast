@@ -1,4 +1,4 @@
-# Unity - Native Android Toast
+# Unity - Android Native Toast
 Show native android toast messages in your unity game
 (Android only)
 <br>
@@ -7,7 +7,8 @@ Show native android toast messages in your unity game
 
 # How to use?
 Simply add Toast.cs script to your project :)
-and now you can use it any where:
+
+.Now you can use it any where:
 ```c#
 Toast.Show("This is a Toast message");
 ```
