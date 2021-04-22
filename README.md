@@ -5,7 +5,7 @@ Show native android toast messages in your unity game
 ```Hello World```
 
 # How to use?
-Simply add ```Toast.cs``` script to your project :) and use it wherever you want without any references :
+Simply add ```Toast.cs``` script to your project 😊😊 and use it wherever you want without any references :
 ```c#
 Toast.Show("This is a Toast message");
 ```
